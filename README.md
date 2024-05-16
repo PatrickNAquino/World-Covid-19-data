@@ -23,15 +23,6 @@ The dashboard allow us to track all the data about the COVID-19 scenario in the 
 - % Infection Fatality = DIVIDE([Total Deaths],[Total Cases])
 
 ## Analysis
-To manipulate this dashboard it's necessary to use the "Graphs_Parameters" slicer, this will allow to change the parameters in the graphics accordingly to the user need. It's possible to visualize the following parameters:
-- Cases;
-- Deaths;
-- % Population Vaccinated;
-- % Positive Tests;
-- % Positive Tests;
-- % Mortality;
-- % Infection Fatality;
-
 Until Apr/2024 in the world we had 775M positive cases of COVID-19 with 7M deaths, corresponding to a 0.9% of infected people dying. If we consider all the global population this represents a mortality of 0.5%.
 - United States and China are the top counties in COVID-19 cases reported. Cases were higher back in 2022 with 424M people infected, this represents 55% of cases in just 1 year.
 - USA leads total deaths also, followed by Brazil with 1.2M and 702K cases respectivelly.
@@ -41,4 +32,4 @@ Until Apr/2024 in the world we had 775M positive cases of COVID-19 with 7M death
 
 Now in 2024 COVID-19 is still between us, but the data shows that the effects of the virus is now attenuated. The world is now safer even with the possibility of contamination our chances to survive are better.
 
-![image](https://github.com/PatrickNAquino/World-Covid-19-data/assets/118391206/da870db4-2f89-48a8-814b-7dc4cf33c234)
+![image](https://github.com/PatrickNAquino/World-Covid-19-data/assets/118391206/f6b438bf-eeaa-489a-81d4-44a39dd4304d)
