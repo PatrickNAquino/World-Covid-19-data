@@ -7,7 +7,7 @@ The dataset provided by [Our World in Data](https://ourworldindata.org/) brings 
 
 Link to the dataset: [OWID-COVID-19-Data](https://github.com/owid/covid-19-data/tree/master/public/data)
 
-## DAX
+## Measures (DAX)
 The dashboard allow us to track all the data about the COVID-19 scenario in the world. So to understand the data I had to create some measures.
 
 - Population = MAX('owid-covid-data'[population]) 
@@ -23,6 +23,8 @@ The dashboard allow us to track all the data about the COVID-19 scenario in the 
 - % Infection Fatality = DIVIDE([Total Deaths],[Total Cases])
 
 ## Analysis
+[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTIwOGQ4MjktMWRkOC00ZGQwLWI3ZTktOTczNWQ2NzVkNjBiIiwidCI6Ijc5NzgyMzFkLTA4ZjAtNDVhNy05ZDEzLTc3YzNmYTk2OGI4OCJ9)
+
 Until Apr/2024 in the world we had 775M positive cases of COVID-19 with 7M deaths, corresponding to a 0.9% of infected people dying. If we consider all the global population this represents a mortality of 0.5%.
 - United States and China are the top counties in COVID-19 cases reported. Cases were higher back in 2022 with 424M people infected, this represents 55% of cases in just 1 year.
 - USA leads total deaths also, followed by Brazil with 1.2M and 702K cases respectivelly.
